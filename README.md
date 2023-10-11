@@ -8,9 +8,9 @@
 
 ## Contributors
 
-  Lena
-  Vaishu
-  Haoliang
+  * Lena
+  * Vaishu
+  * Haoliang
 
 ## Contributing
 
