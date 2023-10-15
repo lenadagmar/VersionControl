@@ -16,6 +16,6 @@
 
    Pull requests are welcome. Please see Code of Conduct.
 
-## Liscense 
+## License 
 
 
